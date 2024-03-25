@@ -1,0 +1,39 @@
+Sprint Report 2
+
+● Data de inceput : 19.12.2023
+  Data de sfarsit : 24.12.2023
+
+● Overview of the team :
+  Fiecare membru al echipei a fost disponibil pentru acest sprint,avand cate o sarcina de lucru.
+
+● User Stories :
+   -Ca utilizator vreau sa am parte de o rubrica cu informatii detaliate despre anumite posturi din IT
+   -Ca utilizator vreau sa am parte de informatii despre o parte din materia care se preda la facultate
+   -Ca utilizator vreau sa am parte de o rubrica cu informatii care sa ma ajute sa ma pregatesc pentru admiterea la facultate
+
+  Acceptance Criteria :
+   -Utilizatorul are parte despre cerintele postului din IT si salariul acestuia
+   -Utilizatorul are parte la sfarsitul capitolelor de 2 probleme de rezolvat si un test grila
+   -Utilizatorul are parte de linkuri ajutatoare pentru admiterea la facultate atat cu informatii teoretice cat si cu probleme
+
+  Dupa inceputul sprint-ului am adaugat in aplicatia noastra o problema de rezolvat la sfarsitul capitolelor din materia de
+  facultate(heap,queue,dequeue,stack)si un test grila pentru testarea cunostintelor.De asemenea,am adaugat un capitol nou
+  care contine detalii despre joburi din domeniul IT-ului.In plus,in capitolul"Facultati"am pus la dispozitie link-uri 
+  ajutatoare pentru admitere.
+
+● Status of planned items and their status :
+  In acest sprint am reusit sa ducem la capat tot ceea ce ne-am propus:detalii despre joburi din IT,inca o problema si un test
+  grila la materia de facultate si punerea la dispozitie a unor materiale ajutatoare pentru admitere.
+
+● Sprint Review
+  Am reusit sa ne atingem toate obiectivele in acest sprint.Spre deosebire de primul sprint,pentru capitolele de facultate am reusit
+  sa gasim probleme ceva mai usoare de rezolvat,iar de asemenea testele grila contin intrebari medii.Productia sfotware-ului a decurs
+  foarte bine,livrand toate functionalitatile la timp.Utilizatorul cu siguranta va fi multumit de lucrurile noi din cadrul aplicatiei,
+  oferindu-i atat informatii pretioase cat si metode prin care sa isi testeze cunostintele acumulate.
+
+● Sprint Retrospective
+  Pentru acest sprint comunicarea intre membrii echipei a decurs mai bine fata de sprint-ul precedent.Fiecare membru si-a respectat deadline-ul
+  pentru cerintele avute,astfel incat livrarea software-ului a decurs foarte bine.Din cei 6 membrii ai echipei,3 nu au facut parte din echipa
+  dezvoltarii aplicatiei de la MDS si ne-am fi asteptat sa se acomodeze ceva mai greu aplicatiei noastre,insa acestia s-au acomodat rapid situatiei
+  si au inteles foarte bine ceea ce au de facut.In urmatorul sprint ce am dori sa imbunatatim ar fi ca un membru al echipei cand intampina anumite
+  probleme pentru task-urile sale sa fie ajutat si de ceilalti membrii ai echipei,nu doar de team-leader.

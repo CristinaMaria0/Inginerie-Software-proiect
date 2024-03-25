@@ -1,0 +1,27 @@
+SPRINT REPORT 1
+
+User Stories & Acceptance criteria
+
+User Stories:
+-Ca utilizator vreau sa am parte de informatii despre o parte din materia care se preda la facultate
+-Ca utilizator vreau sa am parte de o rubrica cu informatii care sa ma ajute sa ma pregatesc pentru admiterea la facultate
+-Ca utilizator vreau sa imi pot vedea timpul in care am realizat un test
+
+Acceptance Criteria:
+-Am decis sa oferim doar o parte din informatii din capitolele de licee,deoarece altfel utilizatorului i s-ar fi parut prea greu si s-ar fi incurcat in detalii
+-Am decis sa punem la dispozitie metodologia de admitere cat mai clara pentru oricine
+-Am decis ca un test realizat in sub 4 minute sa primeasca un raspuns pozitiv
+
+Sprint Report - Issues
+1.Unul dintre capitole(Queue)l-am terminat foarte tarziu
+2.Pentru problemele din capitolele de facultate sunt destul de dificile pentru un incepator,deoarece altele mai usoare nu am gasit
+
+Retrospective Outcome
+Pe parcursul sprintului,o parte din membrii echipei nu au respectat deadline-ul primit,iar astfel capitolul"Queue"a fost finalizat pe ultima suta de metri.Asadar,
+trebuie imbunatatit gestionarea timpului pentru anumiti membrii.De asemenea,trebuie imbunatatita comunicarea,deoarece anumiti membrii cand au incercat sa afle anumite 
+detalii in privinta proiectului au aflat din resurse proprii,ceilalti colegi neraspunzandu-le.
+
+Review Session
+Cu toate ca au fost anumite minusuri pe parcursul sprintului,au fost atinse toate obiectivele planificate pe roadmap.I-am pus la dispozitie utilizatorului
+metodologia de admitere,acum isi poate vedea timpul si,nu in ultimul rand,are parte de cateva capitole din materia de facultate.Speram ca in viitoarele sprinturi sa
+indreptam greselile care s-au facut acum si sa decurga mai bine desfasurarea.

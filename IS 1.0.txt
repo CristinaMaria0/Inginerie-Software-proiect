@@ -1,0 +1,81 @@
+LIVRABILUL INTERMEDIAR
+
+Problem statement/Product vision:
+
+Aceasta aplicatie educationala are rolul de a revolutiona modul in care elevii invata informatica 
+de liceu prin transformarea procesului de invatare intr-unul care ofera o experienta interactiva 
+si captivanta.Prin intermediul lectiilor si al testelor de la finalul fiecarui capitol, dorim 
+sa inspiram pasiunea pentru informatica si sa construim baze solide de cunostinte in randul 
+elevilor de liceu.Misiunea noastra este sa pregatim urmatoarea generatie de programatori, 
+oferindu-le resursele necesare pentru a se dezvolta in acest domeniu.Prin aceasta aplicatie 
+educationala, ne propunem să transformam învatarea informaticii într-o calatorie captivanta, 
+punand puterea tehnologiei in mainile celor care sunt pasionati de aceasta si care vor defini 
+viitorul digital.
+
+
+Product features and functionalities:
+
+A. Present features/functionalities:
+ • Meniu: Un meniu care permite utilizatorilor să navigheze și să aleagă opțiunile disponibile.
+ • Lecții Structurate: Fiecare capitol este împărțit în lecții teoretice și practice.
+ • Probleme diverse: Fiecare capitol are probleme deja rezolvate, dar si probleme puse la dispozitia utilizatorilor inspre a fi rezolvate.
+ • Ajutor și Documentație: Furnizarea de informații de ajutor și documentație pentru utilizatori.
+ • Resurse Multimedia: Include text si  exemple interactive.
+ • Testarea Cunoștințelor: La sfârșitul fiecărei lecții, utilizatorii au acces la întrebări practice și teste grilă.
+ • Actualizare rezultat: Dupa fiecare intrebare din testul grila la care a raspuns, utilizatorul va putea daca raspunsul lui a fost corect.
+ • Contorizare rezultat:  La sfarsitul fiecarui test grila, utilizatorul va putea vedea ce nota a obtinut.
+ 
+B. Features for Upcoming Releases:
+ • Probleme Practice Adiționale: Introducerea unui număr extins de probleme practice pentru fiecare lecție.
+ • Tracking Progres Utilizator: Posibilitatea pentru utilizatori de a urmări și gestiona progresul în cadrul lecțiilor și testelor.
+ • Feedback Personalizat: Oferirea de feedback personalizat pentru problemele practice rezolvate.
+ • Noi capitole : Introducerea de capitole noi care acoperă algoritmi și structuri de date avansate cum ar fi heap-uri, arbori binari de căutare, arbori de intervale etc.
+ • Cronometru pentru teste grilă: Adăugarea unui cronometru pentru a măsura timpul de terminare a testelor grilă.
+ • Secțiune Admitere Facultate: O secțiune dedicată oferirii de informații ajutătoare pentru admiterea la facultățile de informatică.
+ • Secțiune Locuri de Muncă în IT: O secțiune detaliată despre diverse locuri de muncă în domeniul IT pentru a ajuta utilizatorii în orientarea lor profesională.
+ 
+Product Roadmap:
+1. Versiunea Actuală (v1.0):
+• Lecții structurate
+• Resurse multimedia
+• Testarea cunoștințelor
+2. Următoarea Versiune (v1.1):
+• Probleme practice adiționale
+• Tracking progres utilizator
+• Feedback personalizat
+3. Viitoarele Versiuni (v2.0+):
+• Algoritmi și Structuri de Date avansate
+• Probleme de Antrenament Suplimentare
+• Cronometru pentru Teste Grilă
+• Secțiune Admitere Facultate
+• Secțiune Locuri de Muncă în IT
+
+
+Non-functional requirements:
+
+1. Usability
+• Aplicatia trebuie sa fie intuitiva, astfel incat si utilizatorii noi/neexperimentati sa o poata folosi.
+• Aplicatia trebuie sa fie clara si pentru utilizatorii nefamiliari cu domeniul informaticii.
+
+2. Maintainability
+• Versiunea finala a aplicatiei va necesita maximum 30min de mentenanta (si maximum 1h pana la uploadarea rezolvarii problemei).
+
+3. Compatibility
+• Aplicatia trebuie sa poata rula pe orice sistem windows/linux modern.
+
+4. Portability
+• Aplicatia trebuie sa fie portabila, iar executabilul creat sa aiba maximum 5MB.
+
+5. Reliability
+• Aplicatia trebuie sa aiba o probabilitate de esec (crash) mai mica de 2% (din totalul rularilor).
+ 
+6. Performance/Efficiency
+• Aplicatia trebuie sa proceseze alegerile de optiuni in mai putin de 0.5s.
+• Fiecare exemplu de cod trebuie sa ruleze in timp optim comparabil cu respectivul concept folosit in practica.
+• Scorul final al quizurilor trebuie afisat instant dupa terminarea quizului.
+• Aplicatia trebuie sa foloseasca maximum 100MB memorie RAM.
+
+
+
+
+

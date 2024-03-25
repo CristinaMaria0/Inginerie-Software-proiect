@@ -1,0 +1,16 @@
+Anul trecut am realizat o aplicatie educațională in C++ in care utilizatorul poate parcurge 
+toata materia de informatica de liceu.Acesta are parte atat de informații teoretice,cat și 
+practice din capitolul respectiv.La finalul lecției isi poate testa cunoștințele având de 
+rezolvat 2 sau 3 probleme și un test grila.Mai mult acesta poate avea parte de o recomandare de 
+facultăți in domeniul informaticii dacă dorește sa își facă o cariera in domeniu.
+Vrem sa îmbunățim la aplicatia noastra mai multe aspecte,printre care unul ar fi ca utilizatorul 
+sa aibă parte și de o secțiune de capitole cu o parte din materia ce este predata la facultate
+(de ex:heap-uri,arbori binari de Căutare,arbori de intervale etc)la finalul cărora sa își poate 
+teste cunoștințele cu probleme și un test grila.De asemenea,vrem sa adăugăm o secțiune in care 
+utilizatorul sa poata vedea informații detaliate despre mai multe posturi din domeniul IT
+(de ex cu ce se ocupa full-stack developer-ul)pentru a-l ghida intr-o oarecare măsura in cariera 
+sa.În plus,vom crea o secțiune cu informații ajutătoare pentru admiterea la facultăți de i
+nformatica pentru a-l ajuta pe utilizator sa se pregătească pentru ele.De asemenea,vrem ca 
+pentru fiecare test sa avem un timer cu ajutorul caruia utilizatorul sa își poata vedea timpul 
+in care a terminat testul.Nu in ultimul rand,pentru capitolele informaticii din liceu vrem sa 
+adăugăm mai multe probleme cu care utilizatorul sa se poata testa.

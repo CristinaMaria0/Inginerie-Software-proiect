@@ -1,0 +1,35 @@
+Sprint Report 3
+
+● Data de inceput: 3.01.2024
+  Data de sfarsit: 7.01.2024
+
+● Overview of the team:
+  Desi a fost in perioada Craciunului si a Revelionului,toti membrii au fost disponibili pentru acest sprint.
+
+● User Stories:
+  -Ca utilizator vreau sa am parte de o rubrica cu informatii detaliate despre anumite posturi din IT
+  -Ca utilizator vreau sa am parte de mai multe probleme de rezolvat la finalul fiecarui capitol
+
+  Acceptance Criteria:
+  -Utilizatorul poate vedea cele mai ofertante posturi din IT,cerintele si salariul postului
+  -Utilizatorul are de rezolvat acum si probleme mai grele din capitolele de liceu
+
+  In acest sprint pentru capitolul "Joburi" am adaugat 3 joburi ofertante din domeniul IT cu cerintele si salariile acestora.In plus,pentru fiecare capitol de liceu
+  am pus la dispozitia utilizatorului inca 2 probleme de rezolvat cu dificultati medii sau chiar grele.Rezolvarea acestora momentan inca nu am adaugat-o,urmand sa
+  o facem in urmatorul sprint.
+
+● Status of planned items and their status
+  In acest sprint am reusit sa punctam tot ceea ce ne-am propus in Roadmap.Am "imbogatit" capitolul "Joburi" cu inca 3 posturi din domeniul IT,iar pentru capitolele
+  de liceu am adaugat 2 probleme prin care utilizatorul isi poate testa cunostintele mai grele fata de precedentele care erau deja adaugate.
+
+● Sprint Review
+  Acest Sprint a fost cel mai putin solicitant de pana acum ca obiective,insa acest lucru nu ne-a facut sa ne relaxam si sa nu tratam cu seriozitate ceea ce avem de 
+  facut.Cele 3 posturi adaugate in capitolul "Joburi" sunt unele ofertante si care atrag atentia oricarui om din acest domeniu,iar pentru capitolele de liceu am reusit
+  sa gasim probleme mai grele de rezolvat,tinand contul de faptul ca cele care erau puse la dispozitie aveau o dificultate mica.Productia software-ului a decurs bine,
+  reusind sa livram functionalitatile in timpul propus.Utilizatorul isi va putea testa ceva mai serios cunostintele din materia de liceu si va multumit cu ceea ce este
+  nou in aplicatie.
+
+● Sprint Retrospective
+  Desi acest Sprint s-a desfasurat intr-o perioada aglomerata(sarbatorile de iarna)fiecare membru al echipei a tratat cu maxima seriozitate task-urile avute,respectand
+  deadline-ul.Comunicarea dintre membrii echipei a decurs cel mai bine de pana acum,iar toti membrii s-au ajutat intre ei acolo unde existau neclaritati.Pentru urmatorul
+  sprint(ultimul) nu ar fi nimic de imbunatatit,totul decurgand in conditii foarte bune.

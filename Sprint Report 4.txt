@@ -1,0 +1,39 @@
+Sprint Report 4
+
+● Data de inceput:18.01.2024
+  Data de sfarsit:21.01.2024
+
+● Overview of the team:
+  Ca si in precedentele sprint-uri,fiecare membru a fost disponibil.
+
+● User Stories:
+  -Ca utilizator vreau sa am parte de o rubrica cu informatii detaliate despre anumite posturi din IT
+  -Ca utilizator vreau sa am parte de mai multe probleme de rezolvat la finalul fiecarui capitol
+  -Ca utilizator vreau sa imi pot vedea timpul in care am realizat un test 
+
+  Acceptance Criteria:
+  -Utilizatorul are parte de anumite sfaturi care il pot ajuta in orientarea profesionala pentru o cariera in IT
+  -Utilizatorul are acum 2 probleme in plus de rezolvat de dificultate medie sau grea la finalul fiecarui capitol din materia de liceu
+  -Utilizatorul are parte de un feedback la finalul testului in functie de timpul in care a rezolvat intrebarile
+
+  Dupa inceputul sprint-ului,am pus o serie de sfaturi ajutatoare pentru utilizator in privinta orientarii profesionale(in capitolul"Joburi"),dupa aceea am adaugat
+  rezolvarile celor 2 probleme in plus la finalul fiecarui capitol de liceu,probleme fiind mai grele fata de precedentele.Nu in ultimul rand,in functie de timpul in 
+  care un test a fost realizat de utilizator.i-am acordat un feedback(pozitiv sau neagtiv).
+
+● Status of planned items and their status:
+  In acest sprint am reusit sa indeplinim toate obiectivele pe care ni le-am propus in "Roadmap".Am reusit ca pentru fiecare capitol de liceu sa suplimentam numarul
+  de aplicatii de la finalul acestuia,sa acordam un feedback in functie de timpul in care a fost parcurs un test si sa adaugam sfaturi importante in vederea alegerii
+  unei cariere in IT.
+
+● Sprint Review
+  Acesta a fost ultimul sprint realizat in cadrul acestui proiect.Am reusit sa ne atingem si ultimele obiective ramase pentru aceasta aplicatie,productia software-ului
+  decurgand foarte bine.Pentru capitolele de liceu am reusit sa gasim probleme mai dificile,dar nu imposibile,de realizat pentru utilizatori.In plus,sfaturile acordate
+  in privinta alegerii unui job in IT,cu siguranta vor fi foarte utile pentru cei ce folosesc aceasta aplicatie.Toate functionalitatile au fost livrate la timp,iar noi'
+  credem ca utilizatorii vor fi foarte multumiti cu lucrurile noi adaugate in aplicatie.
+
+● Sprint Retrospective
+  In acest ultim sprint elementele pe care noi le consideram"cheie"pentru o buna dezvoltare a unei aplicatii au decurs foarte bine.Toti membrii echipei au communicat
+  foarte bine,si nu doar cu liderul echipei,ci toti intre ei.Cei 3 membrii din echipa care nu au luat parte la dezoltarea aplicatiei initiale la MDS si-au inteles 
+  foarte bine rolul in echipa.Functionalitatile au fost livrate de fiecare data la timp cu tot ceea ce a fost cerut,iar toate aceste lucruri ne fac sa spunem acum,la
+  sfarsitul ultimului sprint,ca proiectul a decurs extrem de bine,neavand mai nimic de obiectat.De la sprint la sprint toate minusurile au fost imbunatatite,acest fapt
+  facand ca aplicatia sa fie una mai completa si mai bine pusa la punct fata de cum era inainte de inceperea proiectului.
